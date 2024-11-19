@@ -39,7 +39,7 @@ This tool automates the process of modifying a PDF to inject a custom JavaScript
 
 1. Run the tool:
    ```bash
-   python3 xss2.py
+   python3 xss.py
    ```
 
 2. Enter your custom JavaScript payload when prompted:

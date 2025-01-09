@@ -20,7 +20,7 @@ This tool automates the process of modifying a PDF to inject a custom JavaScript
 1. Clone this repository:
    ```bash
    git clone https://github.com/sic4rio/pdf-xss-injection-tool.git
-   cd pdf-xss-injection-tool
+   cd pdf-payload-injection-tool
    ```
 
 2. Install the required Python libraries:

@@ -44,7 +44,7 @@ This tool automates the process of modifying a PDF to inject a custom JavaScript
 
 2. Enter your custom JavaScript payload when prompted:
    ```plaintext
-   Enter your JavaScript payload (e.g., alert('XSS')): alert('Test Payload');
+   Enter your JavaScript payload (e.g., XSS: which would reflect alert('XSS');
    ```
 
 3. Upon success, the modified PDF will be saved in the current directory:
